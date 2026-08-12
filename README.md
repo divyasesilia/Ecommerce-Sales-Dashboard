@@ -65,16 +65,19 @@ Ecommerce-Sales-Dashboard/
 │   └── Ecommerce Dashboard.xlsx
 │
 ├── images/
-│   └── excel_dashboard.png
+│   ├── excel_dashboard.png
+│   └── powerbi_dashboard.png
 │
 ├── notebooks/
 │   ├── 01_Data_Understanding.ipynb
 │   ├── 02_Data_Cleaning.ipynb
 │   ├── 03_Exploratory_Data_Analysis.ipynb
 │   ├── 04_SQL_Analysis.ipynb
-│   └── 05_Excel_Dashboard.ipynb
+│   ├── 05_Excel_Dashboard.ipynb
+│   └── 06_PowerBI_Dashboard.ipynb
 │
 ├── powerbi/
+│   └── Ecommerce_Sales_Dashboard.pbix
 │
 ├── sql/
 │
@@ -97,7 +100,7 @@ Ecommerce-Sales-Dashboard/
 
 ✔ Excel Dashboard
 
-✔ Power BI Dashboard *(Coming Soon)*
+✔ Power BI Dashboard 
 
 ---
 
@@ -151,13 +154,65 @@ The dashboard contains:
 
 ---
 
-  # ⭐ Repository Highlights
+# 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides a professional overview of ecommerce sales performance.
+
+The dashboard uses DAX measures, interactive visualizations, and slicers to help users explore sales and profitability across different business dimensions.
+
+### Files Included
+
+- 📊 **Power BI Dashboard** (`powerbi/Ecommerce_Sales_Dashboard.pbix`)
+- 🖼️ **Dashboard Preview** (`images/powerbi_dashboard.png`)
+
+### Dashboard Preview
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+*Interactive Power BI dashboard displaying KPIs, category performance, regional sales, profitability by sub-category, monthly sales trends, top customers, and interactive slicers.*
+
+---
+
+# 📊 Power BI Dashboard Features
+
+The dashboard contains:
+
+- KPI Cards
+  - Total Sales
+  - Total Profit
+  - Average Sales
+  - Average Profit
+
+- Sales by Category
+
+- Profit by Category
+
+- Sales by Region
+
+- Profit by Sub-Category
+
+- Monthly Sales Trend
+
+- Top 10 Customers
+
+- Interactive Slicers
+  - Order Year
+  - Region
+  - Category
+  - Segment
+  - Ship Mode
+
+---
+
+ # ⭐ Repository Highlights
 
 - ✔ End-to-End Data Analytics Project
 - ✔ Data Cleaning using Python
 - ✔ Exploratory Data Analysis (EDA)
 - ✔ SQL Business Analysis
 - ✔ Interactive Excel Dashboard
+- ✔ Interactive Power BI Dashboard
+- ✔ DAX Measures and KPI Analysis
 - ✔ Business Insights & Recommendations
 - ✔ Git Version Control
 - ✔ Well-Documented Jupyter Notebooks
@@ -166,8 +221,8 @@ The dashboard contains:
 
 # 💡 Business Insights
 
-- Technology generates the highest sales.
-- Technology is the most profitable category.
+- Technology generates the highest sales and profit.
+- Copiers are the most profitable sub-category.
 - The West region contributes the highest revenue.
 - Sales fluctuate throughout the year, indicating seasonal demand.
 - A small number of customers contribute a significant share of total sales.
@@ -183,6 +238,7 @@ The dashboard contains:
 | Notebook 03 | Exploratory Data Analysis |
 | Notebook 04 | SQL Business Analysis |
 | Notebook 05 | Excel Dashboard |
+| Notebook 06 | Power BI Dashboard |
 
 ---
 
@@ -192,7 +248,7 @@ The dashboard contains:
 - ✅ Exploratory Data Analysis
 - ✅ SQL Business Analysis
 - ✅ Interactive Excel Dashboard
-- 🔄 Power BI Dashboard  *(Coming Soon)*
+- ✅ Power BI Dashboard  
 - 🔄 Customer Segmentation
 - 🔄 Sales Forecasting
 - 🔄 Time Series Analysis

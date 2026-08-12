@@ -65,7 +65,7 @@ Ecommerce-Sales-Dashboard/
 │   └── Ecommerce Dashboard.xlsx
 │
 ├── images/
-│   ├── excel_dashboard.png
+│   ├── excel_dashboard_updated.png
 │   └── powerbi_dashboard.png
 │
 ├── notebooks/
@@ -113,11 +113,11 @@ The dashboard combines KPI Cards, Pivot Tables, Pivot Charts, and Slicers to ena
 ### Files Included
 
 - 📄 **Excel Dashboard Workbook** (`excel/Ecommerce Dashboard.xlsx`)
-- 🖼️ **Dashboard Preview** (`images/excel_dashboard.png`)
+- 🖼️ **Dashboard Preview** (`images/excel_dashboard_updated.png`)
 
 ### Dashboard Preview
 
-![Excel Dashboard](images/excel_dashboard.png)
+![Excel Dashboard](images/excel_dashboard_updated.png)
 
 *Interactive Excel dashboard displaying KPIs, sales trends, category performance, regional analysis, and dynamic slicers.*
 

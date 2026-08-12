@@ -62,7 +62,7 @@ Ecommerce-Sales-Dashboard/
 │   └── Business_Questions.md
 │
 ├── excel/
-│   └── Ecommerce Dashboard.xlsx
+│   └── Ecommerce Sales Dashboard.xlsx
 │
 ├── images/
 │   ├── excel_dashboard_updated.png
